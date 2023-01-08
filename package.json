@@ -1,5 +1,5 @@
 {
-  "name": "Text-Editor-PWA",
+  "name": "text-editor-pwa",
   "version": "1.0.0",
   "engines:": {
     "node": "16.13.2",
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack-cli": "^5.0.1"
   }
 }
